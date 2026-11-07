@@ -160,8 +160,7 @@ env.bak/
 venv.bak/
 
 # Dataset directories
-/Initial_Dataset/*
-!/Initial_Dataset/hour.csv.dvc
+/Initial_Dataset/hour.csv
 
 /Dataset
 /Temp
